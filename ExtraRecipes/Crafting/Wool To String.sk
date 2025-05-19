@@ -1,0 +1,22 @@
+options:
+    item: 4 string
+
+
+
+on load:
+    register new shapeless recipe for {@item} using white wool with id "string"
+    register new shapeless recipe for {@item} using orange wool with id "string"
+    register new shapeless recipe for {@item} using magenta wool with id "string"
+    register new shapeless recipe for {@item} using light blue wool with id "string"
+    register new shapeless recipe for {@item} using yellow wool with id "string"
+    register new shapeless recipe for {@item} using lime wool with id "string"
+    register new shapeless recipe for {@item} using pink wool with id "string"
+    register new shapeless recipe for {@item} using gray wool with id "string"
+    register new shapeless recipe for {@item} using light gray wool with id "string"
+    register new shapeless recipe for {@item} using cyan wool with id "string"
+    register new shapeless recipe for {@item} using purple wool with id "string"
+    register new shapeless recipe for {@item} using blue wool with id "string"
+    register new shapeless recipe for {@item} using brown wool with id "string"
+    register new shapeless recipe for {@item} using green wool with id "string"
+    register new shapeless recipe for {@item} using red wool with id "string"
+    register new shapeless recipe for {@item} using black wool with id "string"

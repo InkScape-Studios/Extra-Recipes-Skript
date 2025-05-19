@@ -1,0 +1,9 @@
+options:
+    item: 1 cobweb
+    recipe: string, string, string, string, string, string, string, string and string
+    id: "cobweb"
+
+
+
+on load:
+    register new shaped recipe for {@item} using {@recipe} with id {@id}

@@ -1,0 +1,7 @@
+options:
+    item: 1 cobbled deepslate
+
+
+
+on load:
+    register new shapeless recipe for {@item} using deepslate with id "cobbled_deepslate"
