@@ -1,7 +1,0 @@
-options:
-    item: 1 name tag
-
-
-
-on load:
-    register new shaped recipe for {@item} using air, air, iron ingot, air, paper, air, paper, air and air with id "nametag"

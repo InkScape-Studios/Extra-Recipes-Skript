@@ -1,9 +1,0 @@
-options:
-    item: 1 totem of undying
-    recipe: air, gold block, air, gold block, nether star, gold block, gold block, enchanted golden apple and gold block
-    id: "totem_of_undying"
-
-
-
-on load:
-    register new shaped recipe for {@item} using {@recipe} with id {@id}

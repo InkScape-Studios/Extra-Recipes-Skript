@@ -1,9 +1,0 @@
-options:
-    item: 1 saddle
-    recipe: leather, leather, leather, leather, iron ingot, leather, air, iron ingot and air
-    id: "saddle"
-
-
-
-on load:
-    register new shaped recipe for {@item} using {@recipe} with id {@id}
