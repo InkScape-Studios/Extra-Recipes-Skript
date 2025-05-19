@@ -1,0 +1,27 @@
+options:
+    item_normal: 1 chest
+    item_bulk: 4 chest
+
+
+on load:
+    # Normal Chest Recipes
+    register new shaped recipe for {@item_normal} using oak planks, oak planks, oak planks, oak planks, air, oak planks, oak planks, oak planks and oak planks with id "chest_oak"
+    register new shaped recipe for {@item_normal} using spruce planks, spruce planks, spruce planks, spruce planks, air, spruce planks, spruce planks, spruce planks and spruce planks with id "chest_spruce"
+    register new shaped recipe for {@item_normal} using birch planks, birch planks, birch planks, birch planks, air, birch planks, birch planks, birch planks and birch planks with id "chest_birch"
+    register new shaped recipe for {@item_normal} using jungle planks, jungle planks, jungle planks, jungle planks, air, jungle planks, jungle planks, jungle planks and jungle planks with id "chest_jungle"
+    register new shaped recipe for {@item_normal} using acacia planks, acacia planks, acacia planks, acacia planks, air, acacia planks, acacia planks, acacia planks and acacia planks with id "chest_acacia"
+    register new shaped recipe for {@item_normal} using dark oak planks, dark oak planks, dark oak planks, dark oak planks, air, dark oak planks, dark oak planks, dark oak planks and dark oak planks with id "chest_dark_oak"
+    register new shaped recipe for {@item_normal} using mangrove planks, mangrove planks, mangrove planks, mangrove planks, air, mangrove planks, mangrove planks, mangrove planks and mangrove planks with id "chest_mangrove"
+    register new shaped recipe for {@item_normal} using cherry planks, cherry planks, cherry planks, cherry planks, air, cherry planks, cherry planks, cherry planks and cherry planks with id "chest_cherry"
+    register new shaped recipe for {@item_normal} using bamboo planks, bamboo planks, bamboo planks, bamboo planks, air, bamboo planks, bamboo planks, bamboo planks and bamboo planks with id "chest_bamboo"
+
+    # Bulk Chest Recipes
+    register new shaped recipe for {@item_bulk} using oak log, oak log, oak log, oak log, air, oak log, oak log, oak log and oak log with id "bulk_chest_oak"
+    register new shaped recipe for {@item_bulk} using spruce log, spruce log, spruce log, spruce log, air, spruce log, spruce log, spruce log and spruce log with id "bulk_chest_spruce"
+    register new shaped recipe for {@item_bulk} using birch log, birch log, birch log, birch log, air, birch log, birch log, birch log and birch log with id "bulk_chest_birch"
+    register new shaped recipe for {@item_bulk} using jungle log, jungle log, jungle log, jungle log, air, jungle log, jungle log, jungle log and jungle log with id "bulk_chest_jungle"
+    register new shaped recipe for {@item_bulk} using acacia log, acacia log, acacia log, acacia log, air, acacia log, acacia log, acacia log and acacia log with id "bulk_chest_acacia"
+    register new shaped recipe for {@item_bulk} using dark oak log, dark oak log, dark oak log, dark oak log, air, dark oak log, dark oak log, dark oak log and dark oak log with id "bulk_chest_dark_oak"
+    register new shaped recipe for {@item_bulk} using mangrove log, mangrove log, mangrove log, mangrove log, air, mangrove log, mangrove log, mangrove log and mangrove log with id "bulk_chest_mangrove"
+    register new shaped recipe for {@item_bulk} using cherry log, cherry log, cherry log, cherry log, air, cherry log, cherry log, cherry log and cherry log with id "bulk_chest_cherry"
+    register new shaped recipe for {@item_bulk} using bamboo block, bamboo block, bamboo block, bamboo block, air, bamboo block, bamboo block, bamboo block and bamboo block with id "bulk_chest_bamboo"

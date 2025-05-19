@@ -1,0 +1,7 @@
+options:
+    item: 4 prismarine shard
+
+
+
+on load:
+    register new shapeless recipe for {@item} using prismarine with id "prismarine_shard"

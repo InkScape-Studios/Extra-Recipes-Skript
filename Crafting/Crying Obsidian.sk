@@ -1,0 +1,9 @@
+options:
+    item: 1 crying obsidian
+    recipe: obsidian, ghast tear and obsidian
+    id: "crying_obsidian"
+
+
+
+on load:
+    register new shaped recipe for {@item} using {@recipe} with id {@id}

@@ -1,0 +1,9 @@
+options:
+    item: 1 bell
+    recipe: gold ingot, iron ingot, gold ingot, gold ingot, iron ingot, gold ingot, air, stick and air
+    id: "bell"
+
+
+
+on load:
+    register new shaped recipe for {@item} using {@recipe} with id {@id}

@@ -1,0 +1,9 @@
+options:
+    item: 1 spore blossom
+    recipe: vine, pink dye, vine, lily pad, flowering azalea, lily pad, vine, green dye and vine
+    id: "spore_blossom"
+
+
+
+on load:
+    register new shaped recipe for {@item} using {@recipe} with id {@id}

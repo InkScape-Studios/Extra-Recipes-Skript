@@ -1,0 +1,7 @@
+options:
+    item: 1 gunpowder
+
+
+
+on load:
+    register new shapeless recipe for {@item} using charcoal, blaze powder and bone meal with id "gunpowder"
